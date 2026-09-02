@@ -1,0 +1,421 @@
+
+## Avertissement :
+
+Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du Mur qui suivent l'enseignement de spécialité des Sciences de l'Ingénieur.
+
+
+***
+
+![board](images/undraw_scrum_board_re_wk7v.svg){: .center width=50%}
+
+
+[mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+
+<!-- ***
+## Du 29/03
+
+=== "CONTENU DE SÉANCE" 
+
+    - Introduction de RDM, la [Résistance Des Matériaux](./RDM/Cours_RDM.pdf){target="_blank"} ;
+
+    <figure>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MEFKvVCI3mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </figure>
+
+    - **Faire** les [exercices de RDM](./RDM/Exercices_RDM.pdf){target="_blank"} ;
+
+    <figure>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gk_Pby-m5Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </figure>
+
+    - **Faire** le [TP de RDM sous SolidWorks-Simulation](./RDM/TP_rdm_equerre.zip) et produire un compte rendu collectif dans un format numérique ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Pour bien comprendre, **lire** [les diaporamas de NewEcLigne au sujet de la RDM](https://sites.google.com/view/newecligne/m%C3%A9canique/r%C3%A9sistance-des-mat%C3%A9riaux){target="_blank"} ;
+    - Pour aller plus loin, **découvrir** une méthode pour [choisir un matériaux](./RDM/Choix_materiaux.pdf){target="_blank"} selon une combinaison de critères...
+    - [Grand Oral](https://eduscol.education.fr/729/presentation-du-grand-oral){target=_blank} ;
+
+
+
+
+***
+## Du 15/03
+
+=== "Révisions à partir des sujets 2023"
+
+    - [Centres étranger J1](./SE/spe_sciences_ingenieur_2023_centres_etranger_1_sujet_officiel.pdf){target=_blank}
+    - [Centres étranger J2](./SE/spe_sciences_ingenieur_2023_centres_etranger_2_sujet_officiel.pdf){target=_blank}
+    - [Polynésie J1](./SE/spe_sciences_ingenieur_2023_polynesie_1_sujet_officiel.pdf){target=_blank}
+
+
+=== "Propositions de correction partagées"
+
+    - [Centres étranger J1](){target=_blank}
+    - [Centres étranger J2](){target=_blank}
+    - [Polynésie J1](){target=_blank}
+
+***
+## Les 01 et 02/03
+
+=== "CONTENU DE SÉANCE" 
+    
+    - Correction des sujets de bac [Efoil](./SE/Efoil-2022.pdf){target=_blank} et [Robot Barman](./SE/Robot_Barman-2022.pdf){target=_blank} ;    
+    - Codeurs de position : **lire** le [cours](./CI/Codeur-Cours.pdf){target=_blank} et **faire** les [exercices](./CI/Codeur-exercices.pdf){target=_blank} (cf : [document ressource détection mécanique et électronique](./CI/Detection_mecanique_electronique.pdf){target=_blank} ;
+    - Participation aux [activités d'escape game pour l'accueil des troisièmes](https://ericecmorlaix.github.io/accueil_3/){target=_blank} le 02/03 ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** le sujet de bac [NINO](./SE/NINO-2022.pdf){target=_blank} ;
+    - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
+
+
+***
+## Du 01 au 10/02
+
+=== "CONTENU DE SÉANCE" 
+    
+    - Synthèse partielle du parcours n°3 de la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
+    - [Modelisation_Chaine_De_Puissance-Le_Moteur_du_Slider](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_du_Slider.ipynb){target="_blank"} ;[:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2022-2023/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_du_Slider.ipynb){ .md-button .md-button--primary} ;
+    - Moteurs à Courant Continu : **lire** le [cours](./CP/MCC-Cours.pdf){target=_blank} et **faire** les [exercices](./CP/MCC-exercices.pdf){target=_blank} ;
+    - Codeurs de position : **lire** le [cours](./CI/Codeur-Cours.pdf){target=_blank} et **faire** les [exercices](./CI/Codeur-exercices.pdf){target=_blank} (cf : [document ressource détection mécanique et électronique](./CI/Detection_mecanique_electronique.pdf){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} :
+        - ==**notez, transmettez-moi et conservez** votre code personnel pour chaque parcours pour y retourner d'une fois sur l'autre== ;
+        - **conserver** progressivement une trace de vos scripts...
+
+    - ==**Faire** le sujet de bac [Robot Barman](./SE/Robot_Barman-2022.pdf){target=_blank} pour le 27/02== ;
+
+
+***
+## Le 25/01
+
+=== "CONTENU DE SÉANCE" 
+    - **Finir** [le TP de Régulation Thermique](./RA/TP_thermique/RegulationThermique-TP.pdf){target="_blank"} à l'aide des documents et fichiers `.psimsch`:
+        - [Document ressources](./RA/TP_thermique/RegulationThermique-DR.pdf){target="_blank"} ;
+        - [régulation de température T.O.R](./RA/TP_thermique/regulation_de_temperature_TOR.psimsch) ;
+        - [régulation de température proportionnelle intégrale](./RA/TP_thermique/regulation_de_temperature_proportionnelle_integrale.psimsch) ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Reprendre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} :
+        - ==**notez, transmettez-moi et conservez** votre code personnel pour chaque parcours pour y retourner d'une fois sur l'autre== ;
+        - **conserver** progressivement une trace de vos scripts...
+
+
+=== "TRAVAIL À FAIRE"
+
+    - **regarder** les vidéo :
+
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uqaMfvSmiI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    - **Faire** les questions non traitées du sujet [MELODY](./SE/MELODY.pdf){target="_blank"} en particulier Q1.7 à Q1.9 et Q1.22 puis vérifier vos réponses avec [cette proposition de correction](./SE/MELODY-corrige.pdf){target="_blank"} ;
+
+
+
+***
+
+## Le 28/05 
+
+=== "CONTENU DE SÉANCE"
+    
+    - Correction du [BB2](./SE/BB2.pdf){target=_blank} ;
+    
+
+
+***
+## Le 19/03
+
+=== "CONTENU DE SÉANCE" 
+
+    - Faire les sujets du concours Geipi Polytech [2023](./SE/geipi-polytech_2023.pdf){target="_blank"}, [2022](./SE/geipi-polytech_2022.pdf){target="_blank"}, [2021](./SE/geipi-polytech_2021.pdf){target="_blank"} ;
+
+
+
+
+
+
+***
+## Le 10/06
+
+=== "CONTENU DE SÉANCE" 
+
+    - Révisions de l'épreuve écrite autours des sujets présentés par [Ambre](./SU/24-SCIPCJ1ME3.pdf), [Louis](./SU/23-SCIPCJ1NC1.pdf), [Louise](./SU/24-SCIPCJ2G11.pdf), [Noah](./SU/24-SCIPCJ2PO1.pdf), [Autre](./SU/24-SCIPCJ2ME1.pdf) ;
+
+
+    - Etude du [distributeur de savon NoTouch](https://capytale2.ac-paris.fr/web/c/f2c7-6729085){target=_blank} ;
+    
+
+***
+## Les 06 et 07/05
+
+=== "CONTENU DE SÉANCE" 
+
+    - TP sur le système [CREA Slider](https://capytale2.ac-paris.fr/web/c/2647-6518347){target=_blank} ;
+    
+***
+  
+    
+    - **S'entrainer** pour le Bac Blanc avec le sujet du [RTT](./SU/RobotSurveillanceTousTerrains.pdf)
+    
+
+    - **Faire** les études du comportement statique du [HOBOT](./SU/hobot-statique.pdf) 
+
+
+***
+## Le 07/05
+
+=== "CONTENU DE SÉANCE" 
+    
+    - Bac Blanc n°2 : [MELODY](./SU/MELODY.pdf){target=_blank} ;
+    
+    - TP sur le système [CREA Slider](https://capytale2.ac-paris.fr/web/c/2647-6518347){target=_blank} ;
+
+    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
+
+    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
+
+***
+## Le 28/04
+
+=== "CONTENU DE SÉANCE" 
+    
+    - **Prendre en main** le système [CREA Slider](https://capytale2.ac-paris.fr/web/c/e63c-6467265){target=_blank} ;
+
+    - **Faire** le sujet [ROBOT BARMAN](./SU/Robot_Barman-2022.pdf){target="_blank"} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} : [Parcours_3.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){target=_blank} et **rendre** sur [Capytale n° 093a-4361021](https://capytale2.ac-paris.fr/web/c/093a-4361021){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){ .md-button .md-button--primary} ;
+
+    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
+
+     - Faire les sujets du concours Geipi Polytech [2023](./SU/geipi-polytech_2023.pdf){target="_blank"}, [2024](./SU/geipi-polytech_2024.pdf){target="_blank"}, [2025](./SU/geipi-polytech_2025.pdf){target="_blank"}, [2021](./SU/geipi-polytech_2021.pdf){target="_blank"}, [2022](./SU/geipi-polytech_2022.pdf){target="_blank"} ; le concours [Geipi Polytech](https://www.geipi-polytech.org/annales-du-concours-geipi-polytech/){target=_blank}...
+    
+    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
+
+***
+## Du 10/03
+
+=== "CONTENU DE SÉANCE" 
+    
+    - Régulation et asservivement :
+        - **lire** [Introduction_notions](./RA/Introduction_notions.pdf){target="_blank"} ;
+        - parallèlement, **lire** le [Cours](./RA/Cours.pdf){target="_blank"} et **comprendre** les [Exemples](./RA/Exemples.pdf){target="_blank"} ;
+        - **faire** les [Exercices 1 et 2](./RA/Exercices.pdf){target="_blank"} ;
+    
+    - Faire [le TP de Régulation Thermique](./RA/TP_thermique/RegulationThermique-TP.pdf){target="_blank"} à l'aide des documents et fichiers `.psimsch`:
+        - [Document ressources](./RA/TP_thermique/RegulationThermique-DR.pdf){target="_blank"} ;
+        - [régulation de température T.O.R](./RA/TP_thermique/regulation_de_temperature_TOR.psimsch) ;
+        - [régulation de température proportionnelle intégrale](./RA/TP_thermique/regulation_de_temperature_proportionnelle_integrale.psimsch) ;
+
+     - **faire** l'[Exercice 3 du ROBOVOLC](./RA/Exercice_3-ROBOVOLC.pdf){target="_blank"} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** les exercices des Moteurs à Courant Continu et des [Codeurs de position](./CI/Correction_Codeur){target=_blank} ;
+    
+    - **regarder** les vidéos :
+
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uqaMfvSmiI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+    - **Se préparer** pour l'évaluation du 09/04 portant sur la régulation et les asservissements en répondant aux questions :
+        - 7 et 8 du sujet [X-track](./SU/X-track.pdf){target="_blank"} ;
+        - 11, 12 et 13 du sujet [Efoil](./SU/Efoil.pdf){target="_blank"} ;
+        - 1.1 à 1.5 du sujet [Reachy](./SU/Reachy_1.pdf){target=_blank} ;
+        - 1.7 à 1.11 du sujet [Hydrolienne](./SU/Hydrolienne.pdf){target=_blank} ;
+    
+    - **Finir** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} : [Parcours_3.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){target=_blank} et **rendre** sur [Capytale n° 093a-4361021](https://capytale2.ac-paris.fr/web/c/093a-4361021){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){ .md-button .md-button--primary} ;
+
+    - **Mettre à jour** progressivement vos problématiques, recherches et réalisations de préparation au Grand Oral sur [Capytale n° 3263-6425743](https://capytale2.ac-paris.fr/web/c/3263-6425743){target=_blank .md-button .md-button--primary} ;
+
+     - **S'entrainer** pour le concours [Geipi Polytech](https://www.geipi-polytech.org/annales-du-concours-geipi-polytech/){target=_blank}...
+    
+    - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
+
+    
+
+***
+## Du 05/02
+
+=== "CONTENU DE SÉANCE" 
+
+    - **Faire** le [TP-DMX512-Lyre_iMove_5S](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/CR/TP-DMX512-Lyre_iMove_5S.ipynb){target="_blank"} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2026-2027/CR/TP-DMX512-Lyre_iMove_5S.ipynb){ .md-button .md-button--primary} 
+    avec l'aide des documents [Document_ressource-Le_DMX_512](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Document_ressource-Le_DMX_512.pdf){target="_blank"}, [Documentation_iMove_5S_FR](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/Documentation_iMove_5S_FR.pdf){target="_blank"} et [Notice_Imove](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/Notice_Imove.pdf){target="_blank"} ; 
+    rendre vos travaux sur [Capytale n° b1fc-5411324](https://capytale2.ac-paris.fr/web/c/b1fc-5411324){target=_blank .md-button .md-button--primary }  ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application au [Tri Postal](./CR/TriPostal.pdf){target=_blank} ;
+    
+    - **Faire** l'étude des parties A, B, C, D et E du sujet [Lyre Imove 5S](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DQ.pdf){target="_blank"} en vous appuyant sur les documents [techniques](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DT.pdf){target="_blank"} et [réponses](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/MATOS/DMX/Lyre_iMove_5S/LyreImove5S-DR.pdf){target="_blank"} ;
+
+    - **Se préparer** pour une évaluation de communication de données en répondant au question de la partie 3 du sujet [Reachy](./SU/Reachy_1.pdf){target=_blank} ;
+
+***
+## Du 29/01
+
+=== "CONTENU DE SÉANCE" 
+
+    - **Revoir** la partie **"Comprendre"** du notebook [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e30a-6969721](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary } ;
+
+    - **Lire** le cours, **compléter** les exemples, puis **faire** les exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application au [Tri Postal](./CR/TriPostal.pdf){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) -> ==Remmettre un compte rendu au format MarkDown `.md` ou `.ipynb` ou `.pdf` en utilisant l'application [Typst](https://typst.app/){target="_blank"}== ;
+
+***
+
+## Du 08/01
+
+=== "CONTENU DE SÉANCE" 
+
+    - **Analyser** les [courbes caractéristiques du moteur à courant continu "RS 775"](./SU/exercice_courbes_caracteristiques_mcc.pdf){target=_blank} ;
+    - Moteurs à Courant Continu : **lire** le [cours](./CP/MCC-Cours.pdf){target=_blank} et **faire** les [exercices](./CP/MCC-exercices.pdf){target=_blank} ;
+    - Codeurs de position : **lire** le [cours](./CI/Codeur-Cours.pdf){target=_blank} et **faire** les [exercices](./CI/Codeur-exercices.pdf){target=_blank} (cf : [document ressource détection mécanique et électronique](./CI/Detection_mecanique_electronique.pdf){target=_blank} , [élements de correction des l'exercice 1](./CI/Correction_Codeur){target=_blank}) ;
+    
+    - **Faire** les activités du notebook [Modelisation_Chaine_De_Puissance-Le_Moteur_CC](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_CC.ipynb){target="_blank"}
+    [Capytale n° 5fec-5915085](https://capytale2.ac-paris.fr/web/c/5fec-5915085){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2026-2027/CP/Modelisation_Chaine_De_Puissance-Le_Moteur_CC.ipynb){ .md-button .md-button--primary}
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) -> ==Remmettre un compte rendu au format MarkDown `.md` ou `.ipynb` ou `.pdf` en utilisant l'application [Typst](https://typst.app/){target="_blank"}== ;
+    - **Réviser** pour le Bac Blanc : [Cozmo](./SU/CC_cozmo_bis.pdf){target="_blank"}, [Camper](./SU/Camper_Sujet-2012.pdf){target="_blank"}, [Efoil](./SU/Efoil.pdf){target="_blank"}, [X-track](./SU/X-track.pdf){target="_blank"}, [Reachy](./SU/Reachy_1.pdf){target="_blank"}, [Assistant](./SU/Assistant.pdf){target="_blank"}, [Logistique](./SU/Logistique.pdf), ...
+
+***
+
+## Du 10/12
+
+=== "CONTENU DE SÉANCE"
+    
+    - Correction de la partie traitement de l'information du [Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank} et des exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"} (Cf [Correction des exercices 1 et 2](./CI/Correction_Capteurs_Ex1&2.md){target="_blank"}); ; 
+
+    - Point d'avancement de la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} : [Parcours_3.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){target=_blank} [Capytale n° 093a-4361021](https://capytale2.ac-paris.fr/web/c/093a-4361021){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){ .md-button .md-button--primary} ;
+
+    - [Etudes du comportement dynamique d'un solide en rotation](./AM/dynamique_rotation.md){target=_blank} ;
+    
+=== "TRAVAIL À FAIRE"
+
+     - **Finir** [l'étude du comportement dynamique d'un solide en rotation appliquée au Treuil](./AM/dynamique_rotation.md){target=_blank} ;
+     - **Se préparer** pour une évaluation sur la chaine d'acquisition de l'information et le comportement dynamique d'un solide ;
+     - **Faire** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) -> ==Remmettre un compte rendu au format MarkDown `.md` ou `.ipynb` ou `.pdf` en utilisant l'application [Typst](https://typst.app/){target="_blank"}== ;  
+ 
+
+***
+
+## Du 25/11
+
+=== "CONTENU DE SÉANCE"
+
+    - **Reprendre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} :
+        
+        - **Revoir** les [Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} et [Parcours_2.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
+        - **Faire** le [Parcours_3.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){target=_blank} [Capytale n° 093a-4361021](https://capytale2.ac-paris.fr/web/c/093a-4361021){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){ .md-button .md-button--primary} ;
+
+        > ==**notez** vos codes personnels pour chaque parcours pour y retourner d'une fois sur l'autre et **conservez** progressivement une trace de vos scripts sur Capytale et dans votre classeur numérique.==
+
+    - **Lire** le cours et faire les exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"} (Cf [Correction des exercices 1 et 2](./CI/Correction_Capteurs_Ex1&2.md){target="_blank"});
+
+=== "TRAVAIL À FAIRE"
+
+    - **Revoir** la partie traitement de l'information du [Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank} ;    
+
+    - **Poursuivre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
+***
+
+## Du 12/11
+
+=== "CONTENU DE SÉANCE"
+
+    - [Etudes du comportement dynamique d'un solide en translation](./AM/dynamique_translation.md){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - ==DERNIER RAPPEL== **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
+    
+    - **Finir** [l'étude du comportement dynamique d'un solide en translation appliquée au Buggy](./AM/dynamique_translation.md){target=_blank} ;
+    
+    - **Revoir** les études de [cinématique, de transmission de puissance et d'énergétique du Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank}
+     ainsi que son étude [statique](./AM/AM_Cozmo.pdf){target=_blank} ;
+
+    - **Répondre** aux questions 1, 2, 3, 8, 9 du sujet [EFOIL](./SU/Efoil_Sujet-2022.pdf){target=_blank} ;
+
+    
+
+***
+## Du 16/10
+
+=== "CONTENU DE SÉANCE"
+    
+    - [Evaluation en statique](./SU/Eval_Statique.pdf) ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** une auto-correction détaillée de l'[évaluation en statique](./SU/Eval_Statique.pdf) ;
+
+    - **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
+
+***
+## Du 24/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction [de l'équilibre du buggy T2M Black Pirate sur sol horizontal](./AM/statique_vehicule.md){target=_blank} ;
+    - [Modélisation de l'équilibre d'un véhicule à roues sur une pente](./AM/statique_vehicule.md){target=_blank} ;
+    - [Application au buggy T2M Black Pirate sur une pente](./AM/statique_vehicule.md){target=_blank} ;  
+
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
+
+***
+## Du 17/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Retour sur le T.A.F. ;
+    
+    - Point de synthèse sur l'étude des actions mécaniques : [Modélisation de l'équilibre d'un véhicule à roues et applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
+
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){ .md-button .md-button--primary } 
+    [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank .md-button .md-button--primary}
+-->
+***
+
+## Du 03/09
+
+=== "CONTENU DE SÉANCE"
+
+    - **Organiser** [un classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**Reprendre** en main l'environnement web de Visual Studio Code depuis votre iPad et depuis un des PC du labo de SI pour gérer vos fichiers== ;
+
+    - **Faire** l'étude des actions mécaniques du système [béquille de moto](./AM/Actions_Mecaniques-Bequille_De_Moto.pdf){target=_blank} -> ==**Compléter** le [notebook jupyter](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb){target=_blank}== ;
+    [Capytale n° `2f8c-6963150`](https://capytale2.ac-paris.fr/web/c/2f8c-6963150)
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb){ .md-button .md-button--primary }
+
+    > **Revoir** [la modélisation des Actions mécaniques sur ECligne](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank}...
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** l'étude des actions mécaniques du système [béquille de moto](./AM/Actions_Mecaniques-Bequille_De_Moto.pdf){target=_blank} et **rendre** votre [notebook jupyter](https://nbviewer.org/github/ericECmorlaix/TSI_2026-2027/blob/main/docs/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb){target=_blank} complété sur Capytale ;
+
+   
