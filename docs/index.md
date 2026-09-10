@@ -391,14 +391,31 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
     - Retour sur le T.A.F. ;
     
     - Point de synthèse sur l'étude des actions mécaniques : [Modélisation de l'équilibre d'un véhicule à roues et applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
-
     
 === "TRAVAIL À FAIRE"
 
-    - **Faire** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} 
+    - **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){ .md-button .md-button--primary } 
     [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank .md-button .md-button--primary}
 -->
+***
+
+## Le 10/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Retour sur le T.A.F. ;
+    
+    - **Faire** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){ .md-button .md-button--primary } 
+    [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank .md-button .md-button--primary}
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){ .md-button .md-button--primary } 
+    [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank .md-button .md-button--primary}
+
 ***
 
 ## Du 03/09
