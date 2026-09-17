@@ -382,7 +382,7 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
 === "TRAVAIL À FAIRE"
 
     - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
-
+-->
 ***
 ## Du 17/09
 
@@ -397,7 +397,7 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
     - **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){ .md-button .md-button--primary } 
     [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank .md-button .md-button--primary}
--->
+
 ***
 
 ## Le 10/09
