@@ -16,17 +16,17 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ##### Schéma
 
-<!-- ![](./Schema-vehicule-plat.jpg){.center width=50%} -->
+![](./Schema-vehicule-plat.jpg){.center width=50%}
 
-![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 
 ##### BAME (Bilan des Actions Mécaniques Extérieures)
 
 
-<!-- ![](./BAME-vehicule-plat.jpg){.center width=50%} -->
+![](./BAME-vehicule-plat.jpg){.center width=50%}
 
-![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 ??? abstract "Principe fondamental de la statique"
 
@@ -37,15 +37,15 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ??? tip "Calcul du moment d'une force"
 
-    <!-- ![](Calcul_moment.jpg){.center width=50%} -->
+    ![](Calcul_moment.jpg){.center width=50%}
 
-    ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+    <!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 ##### Résolution
 
-<!-- ![](./Resolution-vehicule-plat.jpg){.center width=90%} -->
+![](./Resolution-vehicule-plat.jpg){.center width=90%}
 
-![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
+<!-- ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%} -->
 
 ??? example "Application"
 
@@ -54,7 +54,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
     Le Black Pirate est un Buggy tout terrain 1/8, 4x4, 3 différentiels, à propulsion électrique Brushless.
 
-    Sachant que la masse totale du buggy est $m = 3,60 kg$, déterminer la répartition de la charge initiale sur les roues arrière et avant lorsque le véhicule est à l’arrêt.
+    Sachant que la masse totale du buggy est $m = 3,60\;\mathrm{kg}$, déterminer la répartition de la charge initiale sur les roues arrière et avant lorsque le véhicule est à l’arrêt.
     
     ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate.png){.center width=50%}
 
