@@ -58,9 +58,9 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     
     ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate.png){.center width=50%}
 
-    <!-- ![](Buggy_Black_Pirate/Correction_Statique_Buggy_Horizontal.png){.center width=80%} -->
+    ![](Buggy_Black_Pirate/Correction_Statique_Buggy_Horizontal.png){.center width=80%}
     
-    <!-- ![Correction_Statique_Buggy_Horizontal.pdf](./Buggy_Black_Pirate/Correction_Statique_Buggy_Horizontal.pdf) -->
+    ![Correction_Statique_Buggy_Horizontal.pdf](./Buggy_Black_Pirate/Correction_Statique_Buggy_Horizontal.pdf)
  
 <!--
 ### Sur un sol en pente 
