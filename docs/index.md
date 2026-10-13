@@ -384,6 +384,21 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
     - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
 -->
 ***
+## Le 13/10
+
+=== "CONTENU DE SÉANCE"
+
+    - Retour sur le T.A.F. ;
+    
+    - **Réaliser** en autonomie l'étude du sujet [Robot Barman](./SU/Robot_Barman-2022.pdf) ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){ .md-button .md-button--primary } 
+    [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank .md-button .md-button--primary}
+
+***
 ## Du 17/09
 
 === "CONTENU DE SÉANCE"
