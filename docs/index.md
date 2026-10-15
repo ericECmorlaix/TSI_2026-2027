@@ -384,6 +384,20 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
     - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
 -->
 ***
+## Le 15/10
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction [de l'équilibre du buggy T2M Black Pirate sur sol horizontal](./AM/statique_vehicule.md){target=_blank} ;
+    - [Modélisation de l'équilibre d'un véhicule à roues sur une pente](./AM/statique_vehicule.md){target=_blank} ;
+    - [Application au buggy T2M Black Pirate sur une pente](./AM/statique_vehicule.md){target=_blank} ;  
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
+    - **Finir** en autonomie l'étude du sujet [Robot Barman](./SU/Robot_Barman-2022.pdf) ;
+
+***
 ## Le 13/10
 
 === "CONTENU DE SÉANCE"

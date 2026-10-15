@@ -62,21 +62,21 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     
     [Correction_Statique_Buggy_Horizontal.pdf](./Buggy_Black_Pirate/Correction_Statique_Buggy_Horizontal.pdf)
  
-<!--
+
 ### Sur un sol en pente 
 
 #### Modèle d'étude
 
 ##### Schéma
 
-![](Schema-vehicule-pente.jpg){.center width=60%}
+<!-- ![](Schema-vehicule-pente.jpg){.center width=60%} -->
 
 ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
 
 
 ##### BAME (Bilan des Actions Mécaniques Extérieures)
 
-![](BAME-vehicule-pente.jpg){.center width=60%}
+<!-- ![](BAME-vehicule-pente.jpg){.center width=60%} -->
 
 ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
 
@@ -106,7 +106,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
     ![](./Frottement.png){.center width=90%}
 
-    > Pour aller plus loin en [Tribologie](https://www.futura-sciences.com/sciences/dossiers/physique-matiere-materiaux-fait-monde-996/page/4/){target=_blank}
+    <!-- > Pour aller plus loin en [Tribologie](https://www.futura-sciences.com/sciences/dossiers/physique-matiere-materiaux-fait-monde-996/page/4/){target=_blank} -->
 
 ??? tip "Pourcentage d'une pente = tangente de l'angle"
     
@@ -114,7 +114,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     
 ##### Résolution
 
-![](./Resolution-vehicule-pente.jpg){.center width=90%}
+<!-- ![](./Resolution-vehicule-pente.jpg){.center width=90%} -->
 
 ![blanc](https://ericecmorlaix.github.io/img/blanc.drawio.png){.center width=50%}
 
