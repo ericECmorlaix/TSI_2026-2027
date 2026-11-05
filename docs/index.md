@@ -337,26 +337,6 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
     - **Poursuivre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
 ***
 
-## Du 12/11
-
-=== "CONTENU DE SÉANCE"
-
-    - [Etudes du comportement dynamique d'un solide en translation](./AM/dynamique_translation.md){target=_blank} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - ==DERNIER RAPPEL== **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
-    
-    - **Finir** [l'étude du comportement dynamique d'un solide en translation appliquée au Buggy](./AM/dynamique_translation.md){target=_blank} ;
-    
-    - **Revoir** les études de [cinématique, de transmission de puissance et d'énergétique du Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank}
-     ainsi que son étude [statique](./AM/AM_Cozmo.pdf){target=_blank} ;
-
-    - **Répondre** aux questions 1, 2, 3, 8, 9 du sujet [EFOIL](./SU/Efoil_Sujet-2022.pdf){target=_blank} ;
-
-    
-
-***
 ## Du 16/10
 
 === "CONTENU DE SÉANCE"
@@ -367,22 +347,20 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
 
     - **Faire** une auto-correction détaillée de l'[évaluation en statique](./SU/Eval_Statique.pdf) ;
 
-    - **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
+-->
 
-***
-## Du 24/09
+## Du 05/11
 
 === "CONTENU DE SÉANCE"
 
-    - Correction [de l'équilibre du buggy T2M Black Pirate sur sol horizontal](./AM/statique_vehicule.md){target=_blank} ;
-    - [Modélisation de l'équilibre d'un véhicule à roues sur une pente](./AM/statique_vehicule.md){target=_blank} ;
-    - [Application au buggy T2M Black Pirate sur une pente](./AM/statique_vehicule.md){target=_blank} ;  
+    - [Etudes du comportement dynamique d'un solide en translation](./AM/dynamique_translation.md){target=_blank} ;
 
-    
 === "TRAVAIL À FAIRE"
 
-    - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
--->
+    - ==DERNIER RAPPEL== **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
+    
+    - **Répondre** aux questions 1, 2, 3, 8, 9 du sujet [EFOIL](./SU/Efoil.pdf){target=_blank} ;
+
 ***
 ## Le 15/10
 
