@@ -335,9 +335,31 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
     - **Revoir** la partie traitement de l'information du [Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank} ;    
 
     - **Poursuivre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
+
+-->
 ***
 
-## Du 16/10
+## Du 12/11
+
+=== "CONTENU DE SÉANCE"
+
+    - [Etudes du comportement dynamique d'un solide en translation](./AM/dynamique_translation.md){target=_blank} - Application au buggy T2M Black Pirate ;
+    
+    - **Appliquer** au [freinage d'urgence d'un vélo](./AM/Exercice-Dynamique_Translation-Freinage_Urgent_Velo.pdf) ;
+
+=== "TRAVAIL À FAIRE"
+
+    - ==DERNIER RAPPEL== **Rendre** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2026-2027/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **rendre** votre notebook jupyter sur [Capytale n°b588-3945902](https://capytale2.ac-paris.fr/web/c/b588-3945902){target=_blank} ;
+    
+    - **Rendre** une auto-correction détaillée de l'[évaluation en statique](./SU/Eval_Statique.pdf) ;
+    
+    - **Finir** l'étude du [freinage d'urgence d'un vélo](./AM/Exercice-Dynamique_Translation-Freinage_Urgent_Velo.pdf) ;
+    
+    - **Répondre** aux questions 1, 2, 3, 8, 9 du sujet [EFOIL](./SU/Efoil.pdf){target=_blank} ;
+
+***
+
+## Le 06/11
 
 === "CONTENU DE SÉANCE"
     
@@ -347,7 +369,7 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
 
     - **Faire** une auto-correction détaillée de l'[évaluation en statique](./SU/Eval_Statique.pdf) ;
 
--->
+***
 
 ## Du 05/11
 
