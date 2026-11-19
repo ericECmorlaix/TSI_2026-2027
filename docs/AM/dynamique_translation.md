@@ -136,11 +136,13 @@
 
 #### BAME sur (S) = le buggy
 
-- $\overrightarrow{P} = - m \times g \cdot \overrightarrow{y} $
 
-- $\overrightarrow{K_{sol \to S}} = -\|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} \cdot \overrightarrow{x} + \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} \cdot \overrightarrow{y} $
+- $\overrightarrow{P} = - m \times g \cdot \overrightarrow{y}$
 
-- $\overrightarrow{L_{sol \to S}} = -\|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} \cdot \overrightarrow{x} + \|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} \cdot \overrightarrow{y} $
+- $\overrightarrow{K_{sol \to S}} = -\|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} \cdot \overrightarrow{x} + \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} \cdot \overrightarrow{y}$
+
+- $\overrightarrow{L_{sol \to S}} = -\|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} \cdot \overrightarrow{x} + \|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} \cdot \overrightarrow{y}$
+
 
 <!-- ...
 
@@ -180,9 +182,9 @@
 
 #### Déterminer la répartition de la charge sur les roues arrière et avant lorsque le véhicule accélère ;
 
-**(1)** => $\|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} = m \times a_G -\|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} $
+**(1)** => $\|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} = m \times a_G -\|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha}$
 
-**(2)** => $\|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} = m \times g - \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} $
+**(2)** => $\|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} = m \times g - \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha}$
 
 avec $ x_{LG} = 190 $, $ y_{LG} = 45 $, $ x_{GK} = 145 $, $ y_{KG} = 45 $ 
 
@@ -203,6 +205,7 @@ Pour $a_G = 1,5 \times g$, on obtient la répartition de la charge en calculant 
 $\overrightarrow{K_{sol \to S}} \cdot \overrightarrow{y} =  {3,6 \times (190 \times g + 45 \times 1,5 \times g) \over 335} = {3,6 \times 9,81 \times 257,5 \over 335} = 27,15 \;\mathrm{N}$
 
 $\overrightarrow{L_{sol \to S}} \cdot \overrightarrow{y} =  {3,6 \times (145 \times g - 45 \times 1,5 \times g) \over 335} = {3,6 \times 9,81 \times 77,5 \over 335} = 8,17 \;\mathrm{N}$
+
 
 <!-- ...
 
@@ -228,7 +231,8 @@ On retrouve la même répartition que lorsque le véhicule est à l'arrêt
 
 $\|\overrightarrow{K_{sol \to S}}\| =  {190 \times m \times g \over 335} = {190 \times 3,6 \times 9,81 \over 335} = 20,03 \;\mathrm{N}$
 
-$\|\overrightarrow{L_{sol \to S}}\| =  {145 \times m \times g \over 335} = 15,27 \;\mathrm{N} $
+$\|\overrightarrow{L_{sol \to S}}\| =  {145 \times m \times g \over 335} = 15,27 \;\mathrm{N}$
+
 
 <!-- ...
 
