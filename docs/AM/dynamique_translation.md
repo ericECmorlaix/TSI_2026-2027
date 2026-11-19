@@ -169,7 +169,7 @@
 
 #### Moment dynamique résultant en G : $\sum\overrightarrow{M_G(\overrightarrow{F_{ext \to S}})} = \overrightarrow{0}$
 
-- en projection sur $\overrightarrow{z}$ : $ - x_{LG} \times \|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} - y_{LG} \times \|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} + x_{GK} \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} - y_{KG} \times \|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} = 0$ **(3)**
+- en projection sur $\overrightarrow{z}$ : $- x_{LG} \times \|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} - y_{LG} \times \|\overrightarrow{L_{sol \to S}}\| \times \sin{\alpha} + x_{GK} \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} - y_{KG} \times \|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} = 0$ **(3)**
 
 <!-- ...
 
@@ -186,13 +186,13 @@
 
 **(2)** => $\|\overrightarrow{L_{sol \to S}}\| \times \cos{\alpha} = m \times g - \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha}$
 
-avec $ x_{LG} = 190 $, $ y_{LG} = 45 $, $ x_{GK} = 145 $, $ y_{KG} = 45 $ 
+avec $x_{LG} = 190$, $y_{LG} = 45$, $x_{GK} = 145$, $y_{KG} = 45$ 
 
-**(3)** => $ - 190 \times (m \times g - \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha}) - 45 \times (m \times a_G -\|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha}) + 145 \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} - 45 \times \|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} = 0$
+**(3)** => $- 190 \times (m \times g - \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha}) - 45 \times (m \times a_G -\|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha}) + 145 \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} - 45 \times \|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} = 0$
 
-$ - 190 \times m \times g + 190 \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} - 45 \times m \times a_G + 45 \times \|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} + 145 \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} - 45 \times \|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} = 0$
+$- 190 \times m \times g + 190 \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} - 45 \times m \times a_G + 45 \times \|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} + 145 \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha} - 45 \times \|\overrightarrow{K_{sol \to S}}\| \times \sin{\alpha} = 0$
 
-$ 335 \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha}  = 190 \times m \times g + 45 \times m \times a_G$
+$335 \times \|\overrightarrow{K_{sol \to S}}\| \times \cos{\alpha}  = 190 \times m \times g + 45 \times m \times a_G$
 
 
 
@@ -252,7 +252,7 @@ $\|\overrightarrow{L_{sol \to S}}\| =  {145 \times m \times g \over 335} = 15,27
 
 **(2)** => $\cos{\alpha} = {m \times g \over {\|\overrightarrow{K_{sol \to S}}\| + \|\overrightarrow{L_{sol \to S}}\|}}$
 
-donc $ \tan{\alpha} = {a_G \over g} = {{1,5 \times g} \over g} $ doit être le coefficient d'adhérence minimale (ce qui implique l'utilisation de "crampons") 
+donc $\tan{\alpha} = {a_G \over g} = {{1,5 \times g} \over g}$ doit être le coefficient d'adhérence minimale (ce qui implique l'utilisation de "crampons") 
 
 <!-- ...
 
