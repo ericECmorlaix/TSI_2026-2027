@@ -296,21 +296,14 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
     - **Rendre** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) -> ==Remmettre un compte rendu au format MarkDown `.md` ou `.ipynb` ou `.pdf` en utilisant l'application [Typst](https://typst.app/){target="_blank"}== ;
     - **Réviser** pour le Bac Blanc : [Cozmo](./SU/CC_cozmo_bis.pdf){target="_blank"}, [Camper](./SU/Camper_Sujet-2012.pdf){target="_blank"}, [Efoil](./SU/Efoil.pdf){target="_blank"}, [X-track](./SU/X-track.pdf){target="_blank"}, [Reachy](./SU/Reachy_1.pdf){target="_blank"}, [Assistant](./SU/Assistant.pdf){target="_blank"}, [Logistique](./SU/Logistique.pdf), ...
 
-***
 
-## Du 10/12
-
-=== "CONTENU DE SÉANCE"
-    
-    - Correction de la partie traitement de l'information du [Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank} et des exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"} (Cf [Correction des exercices 1 et 2](./CI/Correction_Capteurs_Ex1&2.md){target="_blank"}); ; 
+- Correction de la partie traitement de l'information du [Cozmo](./SU/CC_cozmo_bis.pdf){target=_blank} et des exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"} (Cf [Correction des exercices 1 et 2](./CI/Correction_Capteurs_Ex1&2.md){target="_blank"}); ; 
 
     - Point d'avancement de la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} : [Parcours_3.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){target=_blank} [Capytale n° 093a-4361021](https://capytale2.ac-paris.fr/web/c/093a-4361021){target=_blank .md-button .md-button--primary } [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_3.ipynb){ .md-button .md-button--primary} ;
 
-    - [Etudes du comportement dynamique d'un solide en rotation](./AM/dynamique_rotation.md){target=_blank} ;
-    
-=== "TRAVAIL À FAIRE"
+ 
 
-     - **Finir** [l'étude du comportement dynamique d'un solide en rotation appliquée au Treuil](./AM/dynamique_rotation.md){target=_blank} ;
+
      - **Se préparer** pour une évaluation sur la chaine d'acquisition de l'information et le comportement dynamique d'un solide ;
      - **Faire** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) -> ==Remmettre un compte rendu au format MarkDown `.md` ou `.ipynb` ou `.pdf` en utilisant l'application [Typst](https://typst.app/){target="_blank"}== ;  
  
@@ -338,7 +331,22 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
 
 -->
 ***
+***
 
+## Le 19/11
+
+=== "CONTENU DE SÉANCE"
+    
+    - Correction des sujets d'[études du comportement dynamique d'un solide en translation](./AM/dynamique_translation.md){target=_blank} - Application au buggy T2M Black Pirate ;
+
+    - [Etudes du comportement dynamique d'un solide en rotation](./AM/dynamique_rotation.md){target=_blank} ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** [l'étude du comportement dynamique d'un solide en rotation appliquée au Treuil](./AM/dynamique_rotation.md){target=_blank} ;
+
+
+***
 ## Du 12/11
 
 === "CONTENU DE SÉANCE"
