@@ -310,5 +310,69 @@ Donc une propulsion est plus favorable qu'une traction en phase d'accélération
 ... -->
 
 
+??? example "Application : **Charge en translation**"
+
+    ![Chariot elevateur](./Chariot_elevateur.png){align=center width=60%}
+    
+    !!! quote ""        
+        On souhaite étudier la phase d'accélération verticale d'une charge (S2) de centre de gravité G2 et de masse M2 = 100 kg.
+
+        Cette charge est déplacée verticalement à l'aide d'un chargeur sur roues et subit une accélération supposée constante et uniquement verticale -az0
+
+        Le chargeur (S1) de centre de gravité G1 et de masse M1 = 1000 kg, est fixe/immobile lors de l'étude, seule la charge et les bras (DF) et (CE) sont mobiles.
+
+        Les liaisons des roues avec le sol en A et B sont des pontuelles parfaites.
+
+        On néglige les inerties et masses des bras (DF) et (CE), du vérin, du plateau et des roues.
+
+        On prendra g = 10 m.s-2
+    
+    <hr>
+    #### Q1) Etablir le BAME de (S) = (S1) + (S2)
+    
+    ...
+
+    ...
+
+    ...
+
+    ...
+    
+    #### Q2) Appliquer le PFD sur (S) au point B et extraire les équations scalaires qui en sont issues
+
+    ...
+
+    ...
+
+    ...
+
+    ...
+
+
+
+    #### Q3) A quelle condition y a-t-il basculement autour de B ? Que vaut alors l'accélération à la limite du basculement ?
+
+    ...
+
+    ...
+
+    ...
+
+    ...
+
+    #### On fera une application numérique avec L1 = L2/2 et L3 = L2
+
+    ...
+
+    ...
+
+    ...
+
+    ...
+
+
+
+
+
 
 
