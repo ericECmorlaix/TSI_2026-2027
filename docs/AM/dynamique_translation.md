@@ -312,16 +312,18 @@ Donc une propulsion est plus favorable qu'une traction en phase d'accélération
 
 ??? example "Application : **Charge en translation**"
 
+    <a id="chargeur"></a>
+
     ![Chariot elevateur](./Chariot_elevateur.png){align=center width=60%}
     
     !!! quote ""        
         On souhaite étudier la phase d'accélération verticale d'une charge $(S_2)$ de centre de gravité $G_2$ et de masse $M_2 = 100 \;\mathrm{kg}$.
 
-        Cette charge est déplacée verticalement à l'aide d'un chargeur sur roues et subit une accélération supposée uniquement verticale et constante $\overrightarrow{a} = -a \cdot \overrightarrow{z_0}$
+        Cette charge est déplacée verticalement à l'aide d'un chargeur sur roues et subit une accélération supposée uniquement verticale et constante $\overrightarrow{a_{G_2} (S_2/R_0)} = -a \cdot \overrightarrow{z_0}$
 
         Le chargeur $(S_1)$ de centre de gravité $G_1$ et de masse $M_1 = 1000 \;\mathrm{kg}$, est fixe/immobile lors de l'étude, seule la charge et les bras $(DF)$ et $(CE)$ sont mobiles.
 
-        Le deux bras, actionné par un vérin $(IJ)$, forment un parallélépipède déformable et sont liés à un plateau sur lequel repose la charge, qui se déplace donc suivant un mouvement de translation.
+        Le deux bras, actionnés par un vérin $(IJ)$, forment un parallélépipède déformable et sont liés à un plateau sur lequel repose la charge, qui se déplace donc suivant un mouvement de translation.
 
         Les liaisons des roues avec le sol en A et B sont des pontuelles parfaites de normale $\overrightarrow{z_0}$.
 
@@ -330,6 +332,8 @@ Donc une propulsion est plus favorable qu'une traction en phase d'accélération
         On néglige les inerties et masses des bras $(DF)$ et $(CE)$, du vérin, du plateau et des roues.
 
         On prendra $g=10 \;\mathrm{m \cdot s^{-2}}$
+
+        > **note** : L'accélération $\overrightarrow{a_{G_2} (S_2/R_0)} = -a \cdot \overrightarrow{z_0}$ n'est en réalité pas que verticale selon $\overrightarrow{z_0}$, mais on néglige ici sa composante horizontale de direction $\overrightarrow{y_1}$.
     
     <hr>
     #### Q1) Etablir le BAME de $(S) = (S_1) + (S_2)$

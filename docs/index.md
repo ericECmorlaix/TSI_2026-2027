@@ -331,6 +331,20 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
 
 -->
 ***
+## Le 20/11
+
+=== "CONTENU DE SÉANCE"
+    
+    - [études du comportement dynamique d'un solide en translation](./AM/dynamique_translation/#chargeur){target=_blank} - Application à une charge en translation ;
+
+    - [Etudes du comportement dynamique d'un solide en rotation](./AM/dynamique_rotation/#treuil){target=_blank} ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** et **rendre** sur copie en DM [l'étude du comportement dynamique d'un solide en translation appliquée au chargeur](./AM/dynamique_translation/#chargeur){target=_blank} ;
+    - **Finir** [l'étude du comportement dynamique d'un solide en rotation appliquée au Treuil](./AM/dynamique_rotation/#treuil){target=_blank} ;
+
+
 ***
 
 ## Le 19/11

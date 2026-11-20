@@ -26,6 +26,8 @@
 
 ??? example "Application de cours : **Etude du comportement dynamique d’un treuil**"
 
+    <a id="treuil"></a>
+    
     ![](treuil.png){.center width=50%}
 
     La figure ci-dessus représente un treuil. Un moto réducteur, non représenté, entraîne en rotation le tambour 1, sur lequel s’enroule le câble 2 et permet ainsi de lever la charge 3.    
