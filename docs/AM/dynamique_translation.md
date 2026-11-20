@@ -315,20 +315,24 @@ Donc une propulsion est plus favorable qu'une traction en phase d'accélération
     ![Chariot elevateur](./Chariot_elevateur.png){align=center width=60%}
     
     !!! quote ""        
-        On souhaite étudier la phase d'accélération verticale d'une charge (S2) de centre de gravité G2 et de masse M2 = 100 kg.
+        On souhaite étudier la phase d'accélération verticale d'une charge $(S_2)$ de centre de gravité $G_2$ et de masse $M_2 = 100 \;\mathrm{kg}$.
 
-        Cette charge est déplacée verticalement à l'aide d'un chargeur sur roues et subit une accélération supposée constante et uniquement verticale -az0
+        Cette charge est déplacée verticalement à l'aide d'un chargeur sur roues et subit une accélération supposée uniquement verticale et constante $\overrightarrow{a} = -a \cdot \overrightarrow{z_0}$
 
-        Le chargeur (S1) de centre de gravité G1 et de masse M1 = 1000 kg, est fixe/immobile lors de l'étude, seule la charge et les bras (DF) et (CE) sont mobiles.
+        Le chargeur $(S_1)$ de centre de gravité $G_1$ et de masse $M_1 = 1000 \;\mathrm{kg}$, est fixe/immobile lors de l'étude, seule la charge et les bras $(DF)$ et $(CE)$ sont mobiles.
 
-        Les liaisons des roues avec le sol en A et B sont des pontuelles parfaites.
+        Le deux bras, actionné par un vérin $(IJ)$, forment un parallélépipède déformable et sont liés à un plateau sur lequel repose la charge, qui se déplace donc suivant un mouvement de translation.
 
-        On néglige les inerties et masses des bras (DF) et (CE), du vérin, du plateau et des roues.
+        Les liaisons des roues avec le sol en A et B sont des pontuelles parfaites de normale $\overrightarrow{z_0}$.
 
-        On prendra g = 10 m.s-2
+        Les liaisons en C, D, E, F, I et J sont des pivots d'axe $\overrightarrow{x_0}$.
+
+        On néglige les inerties et masses des bras $(DF)$ et $(CE)$, du vérin, du plateau et des roues.
+
+        On prendra $g=10 \;\mathrm{m \cdot s^{-2}}$
     
     <hr>
-    #### Q1) Etablir le BAME de (S) = (S1) + (S2)
+    #### Q1) Etablir le BAME de $(S) = (S_1) + (S_2)$
     
     ...
 
@@ -338,7 +342,7 @@ Donc une propulsion est plus favorable qu'une traction en phase d'accélération
 
     ...
     
-    #### Q2) Appliquer le PFD sur (S) au point B et extraire les équations scalaires qui en sont issues
+    #### Q2) Appliquer le PFD sur $(S)$ au point $B$ et extraire les équations scalaires qui en sont issues
 
     ...
 
@@ -350,7 +354,7 @@ Donc une propulsion est plus favorable qu'une traction en phase d'accélération
 
 
 
-    #### Q3) A quelle condition y a-t-il basculement autour de B ? Que vaut alors l'accélération à la limite du basculement ?
+    #### Q3) A quelle condition y a-t-il basculement autour de $B$ ? Que vaut alors l'accélération à la limite du basculement ?
 
     ...
 
@@ -360,12 +364,14 @@ Donc une propulsion est plus favorable qu'une traction en phase d'accélération
 
     ...
 
-    #### On fera une application numérique avec L1 = L2/2 et L3 = L2
+    ##### On fera une application numérique avec $L_1 = {L_2 \over 2}$ et $L_3 = L_2$
 
     ...
 
     ...
 
+    #### Q4) Proposer une modification du système pour limiter encore le risque de basculement... 
+    
     ...
 
     ...
