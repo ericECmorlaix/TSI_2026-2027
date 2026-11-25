@@ -331,6 +331,19 @@ Ce site s'adresse au groupe des élèves de terminales du lycée Notre Dame du M
 
 -->
 ***
+## Le 24/11
+
+=== "CONTENU DE SÉANCE"
+    
+    - Evaluation de Dynamique en translation [XTRACK](./SU/XTRACK-Dynamique.pdf){target=_blank} ;
+    
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** [l'étude du comportement dynamique d'un solide en rotation appliquée au Treuil](./AM/dynamique_rotation/#treuil){target=_blank} ;
+    - **Faire** les études mécaniques extraites des sujets [MELODY - dynamique](./SU/MELODY-Dynamique.pdf){target=_blank}, [MELODY - statique](./SU/MELODY-Statique.pdf){target=_blank}, [HOBOT - statique](./SU/HOBOT-statique.pdf){target=_blank} ;
+
+***
 ## Le 20/11
 
 === "CONTENU DE SÉANCE"
